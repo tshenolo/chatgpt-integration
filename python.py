@@ -1,5 +1,7 @@
 import requests
 
+api_endpoint = "https://api.openai.com/v1/chat/completions"
+
 # Function: Generate response using ChatGPT
 def generate_response(message_content):
     # Generate a response from the ChatGPT model
