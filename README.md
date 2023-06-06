@@ -62,5 +62,5 @@ This integration guide is released under the [MIT License](LICENSE).
 ## Thank you for the Support
 - ⭐ Give this repo a ⭐ star ⭐ at the top of the page
 - 🐦 Follow me on twitter [twitter](https://twitter.com/tshenolo)
-- 📺 Subscribe to my [Youtube channel](https://www.youtube.com/@tshenolo?sub_confirmation=1)![image](https://github.com/tshenolo/chatgpt-integration/assets/824557/a1621269-7dd6-4264-8e31-fa90f1e6b510)
+- 📺 Subscribe to my [Youtube channel](https://www.youtube.com/@tshenolo?sub_confirmation=1)
 
