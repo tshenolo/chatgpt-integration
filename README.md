@@ -52,8 +52,8 @@ Handle errors and edge cases appropriately when making API requests and parsing 
 Consider user privacy and data protection when processing and storing user messages and generated responses.
 
 ## Resources
-[OpenAI Platform](https://openai.com/)
-[ChatGPT API Documentation](https://docs.openai.com/api/)
+[OpenAI Platform](https://openai.com/)  
+[ChatGPT API Documentation](https://docs.openai.com/api/)  
 
 
 License
