@@ -1,4 +1,4 @@
-# 🚀 ChatGPT Integration Guide 🤖
+# 🚀 ChatGPT Integration Guide 
 
 This repository provides an example integration guide for incorporating ChatGPT into an existing application. ChatGPT is a powerful language model developed by OpenAI that can generate conversational responses.
 
