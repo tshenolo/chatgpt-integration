@@ -1,5 +1,7 @@
 // Function: Generate response using ChatGPT
 function generateResponse(messageContent) {
+    const apiEndpoint = "https://api.openai.com/v1/chat/completions";
+    const apiKey = "YOUR_OPENAI_API_KEY";
     // Generate a response from the ChatGPT model
     const response = fetch(apiEndpoint, {
         method: 'POST',
