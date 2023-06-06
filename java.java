@@ -8,7 +8,7 @@ import okhttp3.Response;
 // Function: Generate response using ChatGPT
 public String generateResponse(String messageContent) throws IOException {
     // Generate a response from the ChatGPT model
-    String apiEndpoint = ""https://api.openai.com/v1/chat/completions";
+    String apiEndpoint = "https://api.openai.com/v1/chat/completions";
     String apiKey = "YOUR_OPENAI_API_KEY";
     OkHttpClient client = new OkHttpClient();
     MediaType mediaType = MediaType.parse("application/json");
