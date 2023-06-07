@@ -1,10 +1,9 @@
 import requests
 
-api_endpoint = "https://api.openai.com/v1/chat/completions"
-api_key = "YOUR_OPENAI_API_KEY"
-
 # Function: Generate response using ChatGPT
 def generate_response(message_content):
+    api_endpoint = "https://api.openai.com/v1/chat/completions"
+    api_key = "YOUR_OPENAI_API_KEY"
     # Generate a response from the ChatGPT model
     response = requests.post(
         api_endpoint,
